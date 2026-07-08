@@ -1,0 +1,10 @@
+{
+  "env": {
+    "VITE_API_BASE_URL": "https://e-commas-apis-production-e0f8.up.railway.app"
+  },
+  "build": {
+    "env": {
+      "VITE_API_BASE_URL": "https://e-commas-apis-production-e0f8.up.railway.app"
+    }
+  }
+}
